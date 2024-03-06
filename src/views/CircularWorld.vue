@@ -1,7 +1,7 @@
 <template>
   <div class="main">
     <Header />
-    <mainBgLinks msg="Circular World" />
+    <mainBgLinks msg="Circular World" vid="/CW main background.mp4"/>
   </div>
 </template>
 

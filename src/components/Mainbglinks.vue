@@ -3,8 +3,7 @@
   <div class="main-view">
     <div class="video">
       <!-- /CW main background.mp4 -->
-      <video class="bg-video" autoplay muted loop src="/CW main background.mp4" alt="hiuiii">
-        {{ vid }}
+      <video class="bg-video" autoplay muted loop :src="vid" alt="hiuiii">
       </video>
     </div>
     <div class="content">

@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <Mainbglinks msg="Electric Future" />
+    <Mainbglinks msg="Electric Future" vid="/car logo loop 1.mp4" />
   </div>
 </template>
 

@@ -1,8 +1,7 @@
 <template>
   <div>
     <Header />
-    <h2>bvsjk</h2>
-    <h1>hgiukbig</h1>
+    <Mainbglinks msg="Electric Future" vid="/car logo loop 1.mp4" />
   </div>
 </template>
 

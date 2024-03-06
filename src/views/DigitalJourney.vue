@@ -1,7 +1,7 @@
 <template>
   <div>
     <Header />
-    <Mainbglinks msg="Digital Journey" vid::src="/DJ main background.mp4" />
+    <Mainbglinks msg="Digital Journey" vid="/DJ main background.mp4" />
   </div>
 </template>
 
