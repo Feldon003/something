@@ -1,0 +1,21 @@
+.main-view .image {
+  height: 100%;
+  width: 100%;
+  /* background-color: brown; */
+  position: relative;
+}
+.main-view .image img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.main-view .image img::after {
+  content: '';
+  color: white;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.3);
+}
