@@ -1,15 +1,16 @@
 <template>
   <div>
     <Header />
-    <h1>bdysuvyu</h1>
+    <Mainbglinks msg="Models" vid="CW main background.mp4"/>
   </div>
 </template>
 
 <script>
 import Header from '@/components/Header.vue'
+import Mainbglinks from '@/components/Mainbglinks.vue';
 
 export default {
   name: 'models',
-  components: { Header }
+  components: { Header, Mainbglinks }
 }
 </script>
