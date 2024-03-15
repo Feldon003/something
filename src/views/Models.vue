@@ -1,8 +1,7 @@
 <template>
   <div>
     <Header />
-    <Mainbglinks msg="Models" vid="CW main background.mp4"/>
-  </div>
+      </div>
 </template>
 
 <script>
