@@ -19,3 +19,18 @@
   left: 0;
   background: rgba(0, 0, 0, 0.3);
 }
+
+<div class="paragraph">
+      <div class="content">
+        <h2>Sustainability and circular thinking go hand in hand. Technologies and entrepreneurship 
+        help develop solutions that lead us harmoniously into the future. Recycling and conserving resources
+         are an integeral part of this journey. 
+        All under the motto: RE:DUCE, RE:USE, RE:CYCLE, RE:THINK. Join us on our search for the thrends and 
+        drivers that are shaping our future while protecting the environment.
+         </h2>
+      </div>
+         <div class="date">
+          <p>18 April 2023</p>
+         </div>
+    </div>
+    <div class="pictures">
